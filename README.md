@@ -28,8 +28,16 @@ This project involves the development of a **smart mining helmet** equipped with
 ### 8. 🆘 SOS Button
 - The **SOS button** allows the user to send an instant distress signal in case of emergencies, providing an additional layer of safety.
 
-## 🔗 Links
-- [Documentation](#)
-- [Installation Guide](#)
-- [Contributing](#)
-- [License](#)
+## 📝 Conclusion
+The user is alerted based on data received from the **MQ-2 Sensor**, **ESP8266**, and **DHT11 Sensor**. Alerts are issued through a **buzzer**, and the data is stored in the **Blynk App**. Overall, this project presents a simple yet effective safety helmet for mining workers, ensuring their safety by detecting flammable gases and high temperatures.
+
+## 🚀 Future Scope
+- **Enhanced Gas Detection**: Integrate a more sophisticated gas sensor for precise and detailed analysis of gas mixtures.
+- **Advanced Temperature Sensing**: Use a high-precision temperature sensor for more detailed temperature and humidity readings.
+- **Bluetooth Integration**: Add a Bluetooth module to send data directly to the user's mobile device.
+- **GPS Tracking**: Implement GPS tracking to log the miner's location on a server at regular intervals.
+
+## 📚 References
+1. Behr, C. J., Anuj Kumar, and Gerhard P. Hancke. "A smart helmet for air quality and hazardous event detection for the mining industry." 2016 IEEE International Conference on Industrial Technology (ICIT). IEEE, 2016.
+
+2. Revindran, Rohith, Hansini Vijayaraghavan, and MeiYuan Huang. "Smart helmets for safety in mining industry." 2018 International Conference on Advances in Computing, Communications and Informatics (ICACCI). IEEE, 2018.
